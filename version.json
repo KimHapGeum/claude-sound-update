@@ -1,1 +1,1 @@
-{"version": "1.15.2", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.2/claude-sound-setup.zip", "notes": "승인 창 오작동과 방송 보호를 고치고, 받아쓰기 그래픽 메모리를 절반으로 줄였어요. 퀴즈는 트레이의 '퀴즈 내기'에서 내요.", "sha256": "7792bf97a9b355174ef1e8a2a39ede49fa837dcea58ea1f4a9f79fee960c5c10"}
+{"version": "1.15.3", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.3/claude-sound-setup.zip", "notes": "말로 고치기, 폰 알림, 모드 묶음, 한도 풀리면 이어 하기, 설정 찾기가 생기고 받아쓰기와 호출어가 빨라졌어요.", "sha256": "f537207c77dbe12614f859f290f6fd7fc8f15d90ee1be92d9f74b99af943ceea"}
