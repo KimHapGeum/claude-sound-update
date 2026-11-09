@@ -1,1 +1,1 @@
-{"version": "1.15.3", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.3/claude-sound-setup.zip", "notes": "말로 고치기, 폰 알림, 모드 묶음, 한도 풀리면 이어 하기, 설정 찾기가 생기고 받아쓰기와 호출어가 빨라졌어요.", "sha256": "f537207c77dbe12614f859f290f6fd7fc8f15d90ee1be92d9f74b99af943ceea"}
+{"version": "1.15.4", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.4/claude-sound-setup.zip", "notes": "폰 알림이 늘 오고(자리 비웠을 때만은 설정으로), 캐릭터 목소리 녹음에 mp3도 쓸 수 있어요.", "sha256": "0693d723574e8ae107ae1dccf47dfa8bb3624cdd5cafa8c95e1b022f84095cf0"}
