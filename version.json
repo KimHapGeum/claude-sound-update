@@ -1,1 +1,1 @@
-{"version": "1.15.4", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.4/claude-sound-setup.zip", "notes": "폰 알림이 늘 오고(자리 비웠을 때만은 설정으로), 캐릭터 목소리 녹음에 mp3도 쓸 수 있어요.", "sha256": "0693d723574e8ae107ae1dccf47dfa8bb3624cdd5cafa8c95e1b022f84095cf0"}
+{"version": "1.15.5", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.15.5/claude-sound-setup.zip", "notes": "GPT-SoVITS 서버가 앱과 함께 켜지고 꺼지며, 캐릭터 목소리를 섞고 고정할 수 있어요.", "sha256": "5dc4cd611d6729ade5a2cbc75308ec70485ebb0b031eb65e2971badd7c366790"}
