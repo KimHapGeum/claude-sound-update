@@ -1,1 +1,1 @@
-{"version": "1.16.2", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.16.2/claude-sound-setup.zip", "notes": "승인 알림 버튼, 작업 표시줄 진행 막대, 잠금·덮개 닫으면 듣기 멈춤, 다운로드·인쇄 끝 알림 같은 Windows 기능이 생겼어요.", "sha256": "7bd358009f877baa9169951b1a67b0f4cb2e44db0b9e98859390fa47433332bb"}
+{"version": "1.16.3", "url": "https://github.com/KimHapGeum/claude-sound-update/releases/download/v1.16.3/claude-sound-setup.zip", "notes": "디스코드 음성방에 있는 동안 참가자 캐릭터가 떠나지 않고 계속 머물러요.", "sha256": "e688c45cf6e8a40bab77a3e5fca7cc2c9a11dd3c56b43f31090097eee28041dc"}
